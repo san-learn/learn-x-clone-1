@@ -11,5 +11,5 @@ Even though this project was made with the help of video tutorials and ideas fro
 - [React & Next js Projects with Sahand - GitHub](https://github.com/sahandghavidel)
 - [React & Next js Projects with Sahand - Buy Me a Coffe](https://buymeacoffee.com/codewithsahand)
 - [Ikhsan Farizki - Instagram](https://www.instagram.com/ikhsan.farizki/)
-- [Ikhsan Farizki - GitHub](https://github.com/x4n-s)
 - [Ikhsan Farizki - LinkedIn](https://www.linkedin.com/in/ikhsan-farizki/)
+- [San Learn - GitHub](https://github.com/san-learn)
